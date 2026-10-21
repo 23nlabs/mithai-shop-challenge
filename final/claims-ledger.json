@@ -1,0 +1,634 @@
+{
+ "claims": [
+  {
+   "id": "regret censor none",
+   "value": 63812.34098153321,
+   "printed": "63,812",
+   "expected": "63,812",
+   "source": "v3/original/regret/base: festival season (all years)/Calendar regression (censoring-aware)/none/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret censor bias",
+   "value": 47601.56997960374,
+   "printed": "47,602",
+   "expected": "47,602",
+   "source": "v3/original/regret/base: festival season (all years)/Calendar regression (censoring-aware)/bias/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret calreg none",
+   "value": 68885.63100897499,
+   "printed": "68,886",
+   "expected": "68,886",
+   "source": "v3/original/regret/base: festival season (all years)/Calendar regression/none/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret calreg bias",
+   "value": 50854.933689393874,
+   "printed": "50,855",
+   "expected": "50,855",
+   "source": "v3/original/regret/base: festival season (all years)/Calendar regression/bias/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret tfm+cal none",
+   "value": 73043.16082002003,
+   "printed": "73,043",
+   "expected": "73,043",
+   "source": "v3/original/regret/base: festival season (all years)/TimesFM + calendar/none/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret tfm+cal bias",
+   "value": 52847.020930778315,
+   "printed": "52,847",
+   "expected": "52,847",
+   "source": "v3/original/regret/base: festival season (all years)/TimesFM + calendar/bias/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret yug+cal none",
+   "value": 66274.54285354224,
+   "printed": "66,275",
+   "expected": "66,275",
+   "source": "v3/original/regret/base: festival season (all years)/Yug-1 + calendar/none/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret yug+cal bias",
+   "value": 52881.79088926476,
+   "printed": "52,882",
+   "expected": "52,882",
+   "source": "v3/original/regret/base: festival season (all years)/Yug-1 + calendar/bias/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret chr+cal none",
+   "value": 78895.61705484736,
+   "printed": "78,896",
+   "expected": "78,896",
+   "source": "v3/original/regret/base: festival season (all years)/Chronos + calendar/none/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret chr+cal bias",
+   "value": 54101.64817801849,
+   "printed": "54,102",
+   "expected": "54,102",
+   "source": "v3/original/regret/base: festival season (all years)/Chronos + calendar/bias/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret yug none",
+   "value": 91265.26090299174,
+   "printed": "91,265",
+   "expected": "91,265",
+   "source": "v3/original/regret/base: festival season (all years)/Yug-1/none/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret yug bias",
+   "value": 87050.75771538432,
+   "printed": "87,051",
+   "expected": "87,051",
+   "source": "v3/original/regret/base: festival season (all years)/Yug-1/bias/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret tfm none",
+   "value": 104819.21491994814,
+   "printed": "104,819",
+   "expected": "104,819",
+   "source": "v3/original/regret/base: festival season (all years)/TimesFM 2.5/none/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret tfm bias",
+   "value": 82656.14951303802,
+   "printed": "82,656",
+   "expected": "82,656",
+   "source": "v3/original/regret/base: festival season (all years)/TimesFM 2.5/bias/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret chr none",
+   "value": 118008.29062637432,
+   "printed": "118,008",
+   "expected": "118,008",
+   "source": "v3/original/regret/base: festival season (all years)/Chronos-Bolt/none/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret chr bias",
+   "value": 91128.54907782792,
+   "printed": "91,129",
+   "expected": "91,129",
+   "source": "v3/original/regret/base: festival season (all years)/Chronos-Bolt/bias/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "regret shopkeeper x1.10 none",
+   "value": 50880.2290891944,
+   "printed": "50,880",
+   "expected": "50,880",
+   "source": "v3/original/regret/base: festival season (all years)/Shopkeeper/none/point",
+   "docs": [
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "phantom yug",
+   "value": 0.2893332249719597,
+   "printed": "+29%",
+   "expected": "+29%",
+   "source": "v2/P1_policy_fairness/base: festival season, +19-day shift years (2023, 2026)/methods/Yug-1/phantom_rel_median/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "phantom timesfm",
+   "value": 0.1539965949788249,
+   "printed": "+15%",
+   "expected": "+15%",
+   "source": "v2/P1_policy_fairness/base: festival season, +19-day shift years (2023, 2026)/methods/TimesFM 2.5/phantom_rel_median/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "phantom chronos",
+   "value": 0.1689799292880041,
+   "printed": "+17%",
+   "expected": "+17%",
+   "source": "v2/P1_policy_fairness/base: festival season, +19-day shift years (2023, 2026)/methods/Chronos-Bolt/phantom_rel_median/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "phantom seasonal-naive",
+   "value": 0.4490670675073788,
+   "printed": "+45%",
+   "expected": "+45%",
+   "source": "v2/P1_policy_fairness/base: festival season, +19-day shift years (2023, 2026)/methods/Seasonal-naive 52w/phantom_rel_median/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "phantom ets",
+   "value": 0.10199059070313687,
+   "printed": "+10%",
+   "expected": "+10%",
+   "source": "v2/P1_policy_fairness/base: festival season, +19-day shift years (2023, 2026)/methods/ETS/phantom_rel_median/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "distinct peak yug",
+   "value": 0.4780058651026393,
+   "printed": "48%",
+   "expected": "48%",
+   "source": "v2/P1_policy_fairness/base: festival season, +19-day shift years (2023, 2026)/methods/Yug-1/distinct_peak_share/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "distinct peak timesfm",
+   "value": 0.3255131964809384,
+   "printed": "33%",
+   "expected": "33%",
+   "source": "v2/P1_policy_fairness/base: festival season, +19-day shift years (2023, 2026)/methods/TimesFM 2.5/distinct_peak_share/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "distinct peak chronos",
+   "value": 0.23460410557184752,
+   "printed": "23%",
+   "expected": "23%",
+   "source": "v2/P1_policy_fairness/base: festival season, +19-day shift years (2023, 2026)/methods/Chronos-Bolt/distinct_peak_share/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "peak error yug",
+   "value": -17.0,
+   "printed": "17 days early",
+   "expected": "17 days early",
+   "source": "v2/P1_policy_fairness/base: festival season, +19-day shift years (2023, 2026)/methods/Yug-1/peak_median/point",
+   "docs": [
+    "article.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true
+   }
+  },
+  {
+   "id": "calendar gain base yug",
+   "value": 0.1034827947801244,
+   "printed": "+10.3",
+   "expected": "+10.3",
+   "source": "v2/P2_calendar_gain/base (seeds 0-19): festival season/Yug-1 \u2192 Yug-1 + calendar/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "calendar gain base tfm",
+   "value": 0.062191003391667055,
+   "printed": "+6.2",
+   "expected": "+6.2",
+   "source": "v2/P2_calendar_gain/base (seeds 0-19): festival season/TimesFM 2.5 \u2192 TimesFM + calendar/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "calendar gain base chr",
+   "value": 0.07958226841225757,
+   "printed": "+8.0",
+   "expected": "+8.0",
+   "source": "v2/P2_calendar_gain/base (seeds 0-19): festival season/Chronos-Bolt \u2192 Chronos + calendar/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "calendar gain R3 yug",
+   "value": 0.046799437971415225,
+   "printed": "+4.7",
+   "expected": "+4.7",
+   "source": "v2/P2_calendar_gain/R3-both: festival season/Yug-1 \u2192 Yug-1 + calendar/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "calendar gain R3 tfm",
+   "value": 0.026370422831994755,
+   "printed": "+2.6",
+   "expected": "+2.6",
+   "source": "v2/P2_calendar_gain/R3-both: festival season/TimesFM 2.5 \u2192 TimesFM + calendar/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "calendar gain R3 chr",
+   "value": 0.03652596433628519,
+   "printed": "+3.7",
+   "expected": "+3.7",
+   "source": "v2/P2_calendar_gain/R3-both: festival season/Chronos-Bolt \u2192 Chronos + calendar/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "pair yug+cal - tfm+cal",
+   "value": 34.76995848644583,
+   "printed": "35",
+   "expected": "35",
+   "source": "v3/original/pairwise_festival/bias/Yug-1 + calendar \u2212 TimesFM + calendar/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "pair yug+cal - tfm+cal lo",
+   "value": -1914.0765736469277,
+   "printed": "1,914",
+   "expected": "1,914",
+   "source": "v3/original/pairwise_festival/bias/Yug-1 + calendar \u2212 TimesFM + calendar/lo",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "pair yug+cal - tfm+cal hi",
+   "value": 1602.8078956317827,
+   "printed": "1,603",
+   "expected": "1,603",
+   "source": "v3/original/pairwise_festival/bias/Yug-1 + calendar \u2212 TimesFM + calendar/hi",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "yug - tfm after bias",
+   "value": 4394.608202346295,
+   "printed": "4,395",
+   "expected": "4,395",
+   "source": "v3/original/yug_vs_history_only/bias/Yug-1 \u2212 TimesFM 2.5/point",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "censor - yug+cal bias",
+   "value": -5280.220909661024,
+   "printed": "5,280",
+   "expected": "5,280",
+   "source": "v3/original/pairwise_festival/bias/Calendar regression (censoring-aware) \u2212 Yug-1 + calendar/point",
+   "docs": [
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "forecast rows",
+   "value": 241920,
+   "printed": "241,920",
+   "expected": "241,920",
+   "source": "ver/counts",
+   "docs": [
+    "article.md",
+    "technical-appendix.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true,
+    "technical-appendix.md": true
+   }
+  },
+  {
+   "id": "hindsight contribution",
+   "value": 327078.208561588,
+   "printed": "327,000",
+   "expected": "327,000",
+   "source": "v2/P1_policy_fairness/base: festival season (all years)/methods/Hindsight reference/contribution_per_job/point",
+   "docs": [
+    "article.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true
+   }
+  },
+  {
+   "id": "yug festival coverage seed range",
+   "printed": "68% and 80%",
+   "source": "v2/P4_yug_seeds",
+   "expected": "68% and 80%",
+   "docs": [
+    "article.md"
+   ],
+   "value_matches_print": true,
+   "present_in": {
+    "article.md": true
+   }
+  }
+ ],
+ "failures": []
+}

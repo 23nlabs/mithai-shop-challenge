@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "description": "Only the calendar compilation and summaries derived from synthetic simulations are published; no retailer transactions, raw model weights, or forecast archives.",
+  "artifacts": [
+    {
+      "path": "data/festivals.json",
+      "sha256": "251fc7b399868bccd9276e04b8faf1e83c8ffa70a0288f48bebbb70bf90baecb",
+      "bytes": 42330,
+      "data_type": "third-party-factual-calendar-compilation",
+      "license": "upstream terms retained; no 23N relicensing",
+      "source_attribution": [
+        "Office Holidays India country pages 2015\u20132027",
+        "Drik Panchang Lakshmi Puja cross-check for 2024 Diwali"
+      ],
+      "source_commit": "7069f5a78898076b07014a3d913a1424fc02e53f"
+    },
+    {
+      "path": "evidence/config.json",
+      "sha256": "52ca3d0d0a6d6278d6df72df4af32bb11563ba5cbb617df2bcbb08d92b033c70",
+      "bytes": 3501,
+      "data_type": "synthetic-derived",
+      "license": "CC-BY-4.0",
+      "source_attribution": null,
+      "source_commit": "7069f5a78898076b07014a3d913a1424fc02e53f"
+    },
+    {
+      "path": "final/claims-ledger.json",
+      "sha256": "b4ad0c5163c077dbc31f7a4fbe4a9762961f5e8e4b7714ef76dab35a3ba97f55",
+      "bytes": 15906,
+      "data_type": "synthetic-derived",
+      "license": "CC-BY-4.0",
+      "source_attribution": null,
+      "source_commit": "7069f5a78898076b07014a3d913a1424fc02e53f"
+    },
+    {
+      "path": "results/metrics.json",
+      "sha256": "c83ea128990d14d83a3beda5e865906b01d2fec65af8180b79dcdc328146da04",
+      "bytes": 334444,
+      "data_type": "synthetic-derived",
+      "license": "CC-BY-4.0",
+      "source_attribution": null,
+      "source_commit": "7069f5a78898076b07014a3d913a1424fc02e53f"
+    },
+    {
+      "path": "results/tables.md",
+      "sha256": "5e8c6c09495f2c92b8d3d3c2efa977bddcc8d692fd4ae8929cdd25d6916897e4",
+      "bytes": 27270,
+      "data_type": "synthetic-derived",
+      "license": "CC-BY-4.0",
+      "source_attribution": null,
+      "source_commit": "7069f5a78898076b07014a3d913a1424fc02e53f"
+    },
+    {
+      "path": "robustness/v2/results/robustness-v2.json",
+      "sha256": "d063b3eb2d9775fb2caaf23223103fc11efbe206dbdd09a52e03791c735843ab",
+      "bytes": 487194,
+      "data_type": "synthetic-derived",
+      "license": "CC-BY-4.0",
+      "source_attribution": null,
+      "source_commit": "7069f5a78898076b07014a3d913a1424fc02e53f"
+    },
+    {
+      "path": "robustness/v2/results/tables-v2.md",
+      "sha256": "08406ae8ac2c59db5756f5eed333903ad18b646c1bbb8523654552f7a4a19e8a",
+      "bytes": 32995,
+      "data_type": "synthetic-derived",
+      "license": "CC-BY-4.0",
+      "source_attribution": null,
+      "source_commit": "7069f5a78898076b07014a3d913a1424fc02e53f"
+    },
+    {
+      "path": "robustness/v3/results/final-v3-addon.json",
+      "sha256": "16fe9ab2f1d0f9a57344f9b23ee139ade0ea3294403924133fc76310e9e94b04",
+      "bytes": 11034,
+      "data_type": "synthetic-derived",
+      "license": "CC-BY-4.0",
+      "source_attribution": null,
+      "source_commit": "7069f5a78898076b07014a3d913a1424fc02e53f"
+    },
+    {
+      "path": "robustness/v3/results/final-v3.json",
+      "sha256": "bcd6dcd4bc549de41d80bf1e18baedfc6e28541b97bdc8264c102c0d64c835fc",
+      "bytes": 215557,
+      "data_type": "synthetic-derived",
+      "license": "CC-BY-4.0",
+      "source_attribution": null,
+      "source_commit": "7069f5a78898076b07014a3d913a1424fc02e53f"
+    },
+    {
+      "path": "robustness/v3/results/final-verification.json",
+      "sha256": "26faa86c3b1e6cca90d13032b6e937ed79a86567a17f0f2128635fffd0e6c833",
+      "bytes": 9820,
+      "data_type": "synthetic-derived",
+      "license": "CC-BY-4.0",
+      "source_attribution": null,
+      "source_commit": "7069f5a78898076b07014a3d913a1424fc02e53f"
+    }
+  ]
+}

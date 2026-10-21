@@ -1,0 +1,20 @@
+{
+  "title": "The Diwali Trap / The Mithai Shop Challenge",
+  "status": "public-release",
+  "release_date": "2026-10-21",
+  "public_repository": "https://github.com/23nlabs/mithai-shop-challenge",
+  "citation": "23N Labs Research Team (2026), The Diwali Trap: Can AI Forecasting Models Help a Mithai Shop Plan for a Moving Festival?, Mithai Shop Challenge public release, https://github.com/23nlabs/mithai-shop-challenge",
+  "venue": null,
+  "doi": null,
+  "source_commit": "7069f5a78898076b07014a3d913a1424fc02e53f",
+  "private_research_main_commit": "1dac4eced89155b746005dac0a2afd68bd142fe9",
+  "data_type": "synthetic simulated retail demand",
+  "author_attribution": "23N Labs Research Team",
+  "ai_assistance_disclosure": "AI tools assisted coding, analysis and manuscript preparation; independent human review is not asserted.",
+  "code_license": "Apache-2.0 (original code only)",
+  "original_content_and_synthetic_data_license": "CC-BY-4.0",
+  "third_party_calendar": "attributed factual compilation, outside original-work licenses; see NOTICE.md and data/calendar-crosscheck.md",
+  "third_party_model_weights": "not redistributed",
+  "raw_synthetic_forecast_archives": "omitted; reproducible from notebooks and pinned source",
+  "sealed_forecasts": "not included"
+}

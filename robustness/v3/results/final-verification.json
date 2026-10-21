@@ -1,0 +1,373 @@
+{
+ "counts": {
+  "robustness/v2/runs/kaggle-v2-01/output/v2/orig-seed1__yug__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/orig-seed1__yug__history_clean.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/orig-seed2__yug__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/orig-seed2__yug__history_clean.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/orig-seed3__yug__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/orig-seed3__yug__history_clean.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/orig-seed4__yug__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/orig-seed4__yug__history_clean.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/v2__chronos-bolt-base__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/v2__chronos-bolt-base__history_clean.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/v2__timesfm-2.5__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/v2__timesfm-2.5__history_clean.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/v2__yug__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v2/runs/kaggle-v2-01/output/v2/v2__yug__history_clean.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v2/runs/local-v2/orig__calreg-censoring-aware__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "robustness/v2/runs/local-v2/orig__shopkeeper-calibrated__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "robustness/v2/runs/local-v2/v2__calendar-regression__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v2/runs/local-v2/v2__calreg-censoring-aware__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v2/runs/local-v2/v2__ets+calendar__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v2/runs/local-v2/v2__ets__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v2/runs/local-v2/v2__seasonal-naive-52w__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v2/runs/local-v2/v2__shopkeeper-calibrated__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v2/runs/local-v2/v2__shopkeeper__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v3/runs/kaggle-v3-01/output/v3/v2-seed1__yug__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v3/runs/kaggle-v3-01/output/v3/v2-seed1__yug__history_clean.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v3/runs/kaggle-v3-01/output/v3/v2-seed2__yug__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v3/runs/kaggle-v3-01/output/v3/v2-seed2__yug__history_clean.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v3/runs/kaggle-v3-01/output/v3/v2-seed3__yug__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v3/runs/kaggle-v3-01/output/v3/v2-seed3__yug__history_clean.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v3/runs/kaggle-v3-01/output/v3/v2-seed4__yug__history.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "robustness/v3/runs/kaggle-v3-01/output/v3/v2-seed4__yug__history_clean.npz": {
+   "rows": 9360,
+   "finite": 9360,
+   "crossed": 0
+  },
+  "runs/kaggle-01/output/mithai/chronos-bolt-base__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "runs/kaggle-01/output/mithai/chronos-bolt-base__history_clean.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "runs/kaggle-01/output/mithai/timesfm-2.5__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "runs/kaggle-01/output/mithai/timesfm-2.5__history_clean.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "runs/kaggle-01/output/mithai/yug__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "runs/kaggle-01/output/mithai/yug__history_clean.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "runs/local-baselines/calendar-regression__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "runs/local-baselines/ets+calendar__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "runs/local-baselines/ets__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "runs/local-baselines/seasonal-naive-52w__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  },
+  "runs/local-baselines/shopkeeper__history.npz": {
+   "rows": 2160,
+   "finite": 2160,
+   "crossed": 0
+  }
+ },
+ "manifests": {
+  "v1_unexpected_changes": [],
+  "v2_changes": []
+ },
+ "v1_history_hash_ok": true,
+ "v2_history_hash_ok": true,
+ "independent_metric_checks": [
+  {
+   "method": "Yug-1",
+   "stratum": "base: festival season (all years)",
+   "wape_recomputed": 0.4256282252752948,
+   "wape_reported": 0.4256282252752949,
+   "cov_recomputed": 0.7164517195767196,
+   "cov_reported": 0.7164517195767196,
+   "ok": true
+  },
+  {
+   "method": "Yug-1",
+   "stratum": "base: ordinary periods",
+   "wape_recomputed": 0.3027241006705471,
+   "wape_reported": 0.30272410067054717,
+   "cov_recomputed": 0.8118799603174603,
+   "cov_reported": 0.8118799603174603,
+   "ok": true
+  },
+  {
+   "method": "TimesFM 2.5",
+   "stratum": "base: festival season (all years)",
+   "wape_recomputed": 0.37879498379747795,
+   "wape_reported": 0.378794983797478,
+   "cov_recomputed": 0.8030919312169312,
+   "cov_reported": 0.8030919312169312,
+   "ok": true
+  },
+  {
+   "method": "TimesFM 2.5",
+   "stratum": "base: ordinary periods",
+   "wape_recomputed": 0.2832596834090357,
+   "wape_reported": 0.28325968340903573,
+   "cov_recomputed": 0.8389632936507937,
+   "cov_reported": 0.8389632936507937,
+   "ok": true
+  },
+  {
+   "method": "Chronos-Bolt",
+   "stratum": "base: festival season (all years)",
+   "wape_recomputed": 0.40286142166196376,
+   "wape_reported": 0.4028614216619639,
+   "cov_recomputed": 0.7525793650793651,
+   "cov_reported": 0.7525793650793651,
+   "ok": true
+  },
+  {
+   "method": "Chronos-Bolt",
+   "stratum": "base: ordinary periods",
+   "wape_recomputed": 0.2880919561106579,
+   "wape_reported": 0.28809195611065797,
+   "cov_recomputed": 0.8320684523809524,
+   "cov_reported": 0.8320684523809524,
+   "ok": true
+  },
+  {
+   "method": "ETS",
+   "stratum": "base: festival season (all years)",
+   "wape_recomputed": 0.4245027946885384,
+   "wape_reported": 0.4245027946885384,
+   "cov_recomputed": 0.807473544973545,
+   "cov_reported": 0.807473544973545,
+   "ok": true
+  },
+  {
+   "method": "ETS",
+   "stratum": "base: ordinary periods",
+   "wape_recomputed": 0.3490284448713715,
+   "wape_reported": 0.34902844487137163,
+   "cov_recomputed": 0.9314484126984127,
+   "cov_reported": 0.9314484126984127,
+   "ok": true
+  },
+  {
+   "method": "Calendar regression",
+   "stratum": "base: festival season (all years)",
+   "wape_recomputed": 0.3092140742851838,
+   "wape_reported": 0.3092140742851839,
+   "cov_recomputed": 0.7351851851851852,
+   "cov_reported": 0.7351851851851852,
+   "ok": true
+  },
+  {
+   "method": "Calendar regression",
+   "stratum": "base: ordinary periods",
+   "wape_recomputed": 0.27018747017633765,
+   "wape_reported": 0.27018747017633776,
+   "cov_recomputed": 0.8189236111111111,
+   "cov_reported": 0.8189236111111111,
+   "ok": true
+  },
+  {
+   "method": "Seasonal-naive 52w",
+   "stratum": "base: festival season (all years)",
+   "wape_recomputed": 0.5421273951384031,
+   "wape_reported": 0.5421273951384032,
+   "cov_recomputed": 0.6171461640211641,
+   "cov_reported": 0.6171461640211641,
+   "ok": true
+  },
+  {
+   "method": "Seasonal-naive 52w",
+   "stratum": "base: ordinary periods",
+   "wape_recomputed": 0.3898367548202933,
+   "wape_reported": 0.38983675482029345,
+   "cov_recomputed": 0.8466517857142857,
+   "cov_reported": 0.8466517857142857,
+   "ok": true
+  },
+  {
+   "method": "Yug-1",
+   "stratum": "R1-shape: festival season",
+   "wape_recomputed": 0.42354628011501344,
+   "wape_reported": 0.4235462801150135,
+   "ok": true
+  },
+  {
+   "method": "Calendar regression",
+   "stratum": "R1-shape: festival season",
+   "wape_recomputed": 0.346680690476164,
+   "wape_reported": 0.346680690476164,
+   "ok": true
+  },
+  {
+   "method": "Yug-1",
+   "stratum": "R2-shocks: festival season",
+   "wape_recomputed": 0.42540670160093313,
+   "wape_reported": 0.42540670160093313,
+   "ok": true
+  },
+  {
+   "method": "Calendar regression",
+   "stratum": "R2-shocks: festival season",
+   "wape_recomputed": 0.31786772489815385,
+   "wape_reported": 0.31786772489815385,
+   "ok": true
+  },
+  {
+   "method": "Yug-1",
+   "stratum": "R3-both: festival season",
+   "wape_recomputed": 0.4255445737259707,
+   "wape_reported": 0.42554457372597065,
+   "ok": true
+  },
+  {
+   "method": "Calendar regression",
+   "stratum": "R3-both: festival season",
+   "wape_recomputed": 0.35492688541906686,
+   "wape_reported": 0.354926885419067,
+   "ok": true
+  }
+ ],
+ "all_checks_ok": true
+}

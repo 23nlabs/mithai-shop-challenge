@@ -1,0 +1,1208 @@
+[
+  {
+    "festival": "Diwali",
+    "year": 2015,
+    "candidate_dates": [
+      "2015-11-10",
+      "2015-11-11"
+    ],
+    "primary_date": "2015-11-10",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2015",
+    "source_sha256": "6b54bd6512ed55dcee73e0edad1732e9ba8dbb174227649516f560ce921b1065",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": null
+  },
+  {
+    "festival": "Holi",
+    "year": 2015,
+    "candidate_dates": [
+      "2015-03-06"
+    ],
+    "primary_date": "2015-03-06",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2015",
+    "source_sha256": "6b54bd6512ed55dcee73e0edad1732e9ba8dbb174227649516f560ce921b1065",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": null
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2015,
+    "candidate_dates": [
+      "2015-10-21",
+      "2015-10-22",
+      "2015-10-23"
+    ],
+    "primary_date": "2015-10-21",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2015",
+    "source_sha256": "6b54bd6512ed55dcee73e0edad1732e9ba8dbb174227649516f560ce921b1065",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": null
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2015,
+    "candidate_dates": [
+      "2015-07-18"
+    ],
+    "primary_date": "2015-07-18",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2015",
+    "source_sha256": "6b54bd6512ed55dcee73e0edad1732e9ba8dbb174227649516f560ce921b1065",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": null
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2015,
+    "candidate_dates": [
+      "2015-08-29"
+    ],
+    "primary_date": "2015-08-29",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2015",
+    "source_sha256": "6b54bd6512ed55dcee73e0edad1732e9ba8dbb174227649516f560ce921b1065",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": null
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2015,
+    "candidate_dates": [
+      "2015-09-17"
+    ],
+    "primary_date": "2015-09-17",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2015",
+    "source_sha256": "6b54bd6512ed55dcee73e0edad1732e9ba8dbb174227649516f560ce921b1065",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": null
+  },
+  {
+    "festival": "Diwali",
+    "year": 2016,
+    "candidate_dates": [
+      "2016-10-29",
+      "2016-10-30",
+      "2016-10-31"
+    ],
+    "primary_date": "2016-10-29",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2016",
+    "source_sha256": "2a96c502b93c8ac69564674bac0cec8076b6d8c3dcb0e3f74419d91e8c2df6b9",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -12
+  },
+  {
+    "festival": "Holi",
+    "year": 2016,
+    "candidate_dates": [
+      "2016-03-24"
+    ],
+    "primary_date": "2016-03-24",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2016",
+    "source_sha256": "2a96c502b93c8ac69564674bac0cec8076b6d8c3dcb0e3f74419d91e8c2df6b9",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 18
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2016,
+    "candidate_dates": [
+      "2016-10-10",
+      "2016-10-11"
+    ],
+    "primary_date": "2016-10-10",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2016",
+    "source_sha256": "2a96c502b93c8ac69564674bac0cec8076b6d8c3dcb0e3f74419d91e8c2df6b9",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2016,
+    "candidate_dates": [
+      "2016-07-06",
+      "2016-07-07"
+    ],
+    "primary_date": "2016-07-06",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2016",
+    "source_sha256": "2a96c502b93c8ac69564674bac0cec8076b6d8c3dcb0e3f74419d91e8c2df6b9",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -12
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2016,
+    "candidate_dates": [
+      "2016-08-18"
+    ],
+    "primary_date": "2016-08-18",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2016",
+    "source_sha256": "2a96c502b93c8ac69564674bac0cec8076b6d8c3dcb0e3f74419d91e8c2df6b9",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2016,
+    "candidate_dates": [
+      "2016-09-05"
+    ],
+    "primary_date": "2016-09-05",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2016",
+    "source_sha256": "2a96c502b93c8ac69564674bac0cec8076b6d8c3dcb0e3f74419d91e8c2df6b9",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -12
+  },
+  {
+    "festival": "Diwali",
+    "year": 2017,
+    "candidate_dates": [
+      "2017-10-19"
+    ],
+    "primary_date": "2017-10-19",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2017",
+    "source_sha256": "98008c8f18007f3013a618f7361afa66e34630ac643608907d8d4f6cdcc6963e",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Holi",
+    "year": 2017,
+    "candidate_dates": [
+      "2017-03-13"
+    ],
+    "primary_date": "2017-03-13",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2017",
+    "source_sha256": "98008c8f18007f3013a618f7361afa66e34630ac643608907d8d4f6cdcc6963e",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2017,
+    "candidate_dates": [
+      "2017-09-29",
+      "2017-09-30"
+    ],
+    "primary_date": "2017-09-29",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2017",
+    "source_sha256": "98008c8f18007f3013a618f7361afa66e34630ac643608907d8d4f6cdcc6963e",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2017,
+    "candidate_dates": [
+      "2017-06-26"
+    ],
+    "primary_date": "2017-06-26",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2017",
+    "source_sha256": "98008c8f18007f3013a618f7361afa66e34630ac643608907d8d4f6cdcc6963e",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2017,
+    "candidate_dates": [
+      "2017-08-07"
+    ],
+    "primary_date": "2017-08-07",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2017",
+    "source_sha256": "98008c8f18007f3013a618f7361afa66e34630ac643608907d8d4f6cdcc6963e",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2017,
+    "candidate_dates": [
+      "2017-08-25"
+    ],
+    "primary_date": "2017-08-25",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2017",
+    "source_sha256": "98008c8f18007f3013a618f7361afa66e34630ac643608907d8d4f6cdcc6963e",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Diwali",
+    "year": 2018,
+    "candidate_dates": [
+      "2018-11-06",
+      "2018-11-07",
+      "2018-11-08"
+    ],
+    "primary_date": "2018-11-06",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2018",
+    "source_sha256": "41ffbf88877429b1d656ca63684b220489751981a147375fb50d0f7cd8ed425a",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 18
+  },
+  {
+    "festival": "Holi",
+    "year": 2018,
+    "candidate_dates": [
+      "2018-03-02"
+    ],
+    "primary_date": "2018-03-02",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2018",
+    "source_sha256": "41ffbf88877429b1d656ca63684b220489751981a147375fb50d0f7cd8ed425a",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2018,
+    "candidate_dates": [
+      "2018-10-18",
+      "2018-10-19"
+    ],
+    "primary_date": "2018-10-18",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2018",
+    "source_sha256": "41ffbf88877429b1d656ca63684b220489751981a147375fb50d0f7cd8ed425a",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 19
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2018,
+    "candidate_dates": [
+      "2018-06-15",
+      "2018-06-16"
+    ],
+    "primary_date": "2018-06-15",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2018",
+    "source_sha256": "41ffbf88877429b1d656ca63684b220489751981a147375fb50d0f7cd8ed425a",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2018,
+    "candidate_dates": [
+      "2018-08-26"
+    ],
+    "primary_date": "2018-08-26",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2018",
+    "source_sha256": "41ffbf88877429b1d656ca63684b220489751981a147375fb50d0f7cd8ed425a",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 19
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2018,
+    "candidate_dates": [
+      "2018-09-13"
+    ],
+    "primary_date": "2018-09-13",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2018",
+    "source_sha256": "41ffbf88877429b1d656ca63684b220489751981a147375fb50d0f7cd8ed425a",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 19
+  },
+  {
+    "festival": "Diwali",
+    "year": 2019,
+    "candidate_dates": [
+      "2019-10-27",
+      "2019-10-28"
+    ],
+    "primary_date": "2019-10-27",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2019",
+    "source_sha256": "26181a9710ed21019ec946f15758214a24249c7bf5af1c89f76e4cc432a4aa40",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Holi",
+    "year": 2019,
+    "candidate_dates": [
+      "2019-03-21",
+      "2019-03-22"
+    ],
+    "primary_date": "2019-03-21",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2019",
+    "source_sha256": "26181a9710ed21019ec946f15758214a24249c7bf5af1c89f76e4cc432a4aa40",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 19
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2019,
+    "candidate_dates": [
+      "2019-10-08"
+    ],
+    "primary_date": "2019-10-08",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2019",
+    "source_sha256": "26181a9710ed21019ec946f15758214a24249c7bf5af1c89f76e4cc432a4aa40",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2019,
+    "candidate_dates": [
+      "2019-06-05"
+    ],
+    "primary_date": "2019-06-05",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2019",
+    "source_sha256": "26181a9710ed21019ec946f15758214a24249c7bf5af1c89f76e4cc432a4aa40",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2019,
+    "candidate_dates": [
+      "2019-08-15"
+    ],
+    "primary_date": "2019-08-15",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2019",
+    "source_sha256": "26181a9710ed21019ec946f15758214a24249c7bf5af1c89f76e4cc432a4aa40",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2019,
+    "candidate_dates": [
+      "2019-09-02"
+    ],
+    "primary_date": "2019-09-02",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2019",
+    "source_sha256": "26181a9710ed21019ec946f15758214a24249c7bf5af1c89f76e4cc432a4aa40",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Diwali",
+    "year": 2020,
+    "candidate_dates": [
+      "2020-11-14"
+    ],
+    "primary_date": "2020-11-14",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2020",
+    "source_sha256": "f2eaa7e3b64b4d4b93c3e91e95ea47f396a605d3f03249d1a74fc4cff05b401f",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 18
+  },
+  {
+    "festival": "Holi",
+    "year": 2020,
+    "candidate_dates": [
+      "2020-03-09",
+      "2020-03-10"
+    ],
+    "primary_date": "2020-03-09",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2020",
+    "source_sha256": "f2eaa7e3b64b4d4b93c3e91e95ea47f396a605d3f03249d1a74fc4cff05b401f",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -12
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2020,
+    "candidate_dates": [
+      "2020-10-25",
+      "2020-10-26"
+    ],
+    "primary_date": "2020-10-25",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2020",
+    "source_sha256": "f2eaa7e3b64b4d4b93c3e91e95ea47f396a605d3f03249d1a74fc4cff05b401f",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 17
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2020,
+    "candidate_dates": [
+      "2020-05-25"
+    ],
+    "primary_date": "2020-05-25",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2020",
+    "source_sha256": "f2eaa7e3b64b4d4b93c3e91e95ea47f396a605d3f03249d1a74fc4cff05b401f",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2020,
+    "candidate_dates": [
+      "2020-08-03"
+    ],
+    "primary_date": "2020-08-03",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2020",
+    "source_sha256": "f2eaa7e3b64b4d4b93c3e91e95ea47f396a605d3f03249d1a74fc4cff05b401f",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -12
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2020,
+    "candidate_dates": [
+      "2020-08-22"
+    ],
+    "primary_date": "2020-08-22",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2020",
+    "source_sha256": "f2eaa7e3b64b4d4b93c3e91e95ea47f396a605d3f03249d1a74fc4cff05b401f",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Diwali",
+    "year": 2021,
+    "candidate_dates": [
+      "2021-11-04"
+    ],
+    "primary_date": "2021-11-04",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2021",
+    "source_sha256": "a416774bfd27ec2e2c1e5390db4a833e38baf48fc8818834148e53c891122e1c",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Holi",
+    "year": 2021,
+    "candidate_dates": [
+      "2021-03-29"
+    ],
+    "primary_date": "2021-03-29",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2021",
+    "source_sha256": "a416774bfd27ec2e2c1e5390db4a833e38baf48fc8818834148e53c891122e1c",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 20
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2021,
+    "candidate_dates": [
+      "2021-10-15"
+    ],
+    "primary_date": "2021-10-15",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2021",
+    "source_sha256": "a416774bfd27ec2e2c1e5390db4a833e38baf48fc8818834148e53c891122e1c",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2021,
+    "candidate_dates": [
+      "2021-05-13",
+      "2021-05-14"
+    ],
+    "primary_date": "2021-05-13",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2021",
+    "source_sha256": "a416774bfd27ec2e2c1e5390db4a833e38baf48fc8818834148e53c891122e1c",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -12
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2021,
+    "candidate_dates": [
+      "2021-08-22"
+    ],
+    "primary_date": "2021-08-22",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2021",
+    "source_sha256": "a416774bfd27ec2e2c1e5390db4a833e38baf48fc8818834148e53c891122e1c",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 19
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2021,
+    "candidate_dates": [
+      "2021-09-10"
+    ],
+    "primary_date": "2021-09-10",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2021",
+    "source_sha256": "a416774bfd27ec2e2c1e5390db4a833e38baf48fc8818834148e53c891122e1c",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 19
+  },
+  {
+    "festival": "Diwali",
+    "year": 2022,
+    "candidate_dates": [
+      "2022-10-24"
+    ],
+    "primary_date": "2022-10-24",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2022",
+    "source_sha256": "cd84031305a4c3add13581c8df13af3cfc75f4ae28ee68681668dc273bf8c9ee",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Holi",
+    "year": 2022,
+    "candidate_dates": [
+      "2022-03-18",
+      "2022-03-19"
+    ],
+    "primary_date": "2022-03-18",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2022",
+    "source_sha256": "cd84031305a4c3add13581c8df13af3cfc75f4ae28ee68681668dc273bf8c9ee",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2022,
+    "candidate_dates": [
+      "2022-10-05"
+    ],
+    "primary_date": "2022-10-05",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2022",
+    "source_sha256": "cd84031305a4c3add13581c8df13af3cfc75f4ae28ee68681668dc273bf8c9ee",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2022,
+    "candidate_dates": [
+      "2022-05-03"
+    ],
+    "primary_date": "2022-05-03",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2022",
+    "source_sha256": "cd84031305a4c3add13581c8df13af3cfc75f4ae28ee68681668dc273bf8c9ee",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2022,
+    "candidate_dates": [
+      "2022-08-11"
+    ],
+    "primary_date": "2022-08-11",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2022",
+    "source_sha256": "cd84031305a4c3add13581c8df13af3cfc75f4ae28ee68681668dc273bf8c9ee",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2022,
+    "candidate_dates": [
+      "2022-08-31"
+    ],
+    "primary_date": "2022-08-31",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2022",
+    "source_sha256": "cd84031305a4c3add13581c8df13af3cfc75f4ae28ee68681668dc273bf8c9ee",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Diwali",
+    "year": 2023,
+    "candidate_dates": [
+      "2023-11-12",
+      "2023-11-13"
+    ],
+    "primary_date": "2023-11-12",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2023",
+    "source_sha256": "e2a9bd8a2da05733de9ca7aae0815dc9581ffb85d89fb99dbac1374526be63e0",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 19
+  },
+  {
+    "festival": "Holi",
+    "year": 2023,
+    "candidate_dates": [
+      "2023-03-07",
+      "2023-03-08"
+    ],
+    "primary_date": "2023-03-07",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2023",
+    "source_sha256": "e2a9bd8a2da05733de9ca7aae0815dc9581ffb85d89fb99dbac1374526be63e0",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2023,
+    "candidate_dates": [
+      "2023-10-24"
+    ],
+    "primary_date": "2023-10-24",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2023",
+    "source_sha256": "e2a9bd8a2da05733de9ca7aae0815dc9581ffb85d89fb99dbac1374526be63e0",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 19
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2023,
+    "candidate_dates": [
+      "2023-04-22"
+    ],
+    "primary_date": "2023-04-22",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2023",
+    "source_sha256": "e2a9bd8a2da05733de9ca7aae0815dc9581ffb85d89fb99dbac1374526be63e0",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2023,
+    "candidate_dates": [
+      "2023-08-30",
+      "2023-08-31"
+    ],
+    "primary_date": "2023-08-30",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2023",
+    "source_sha256": "e2a9bd8a2da05733de9ca7aae0815dc9581ffb85d89fb99dbac1374526be63e0",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 19
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2023,
+    "candidate_dates": [
+      "2023-09-18",
+      "2023-09-19"
+    ],
+    "primary_date": "2023-09-18",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2023",
+    "source_sha256": "e2a9bd8a2da05733de9ca7aae0815dc9581ffb85d89fb99dbac1374526be63e0",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 18
+  },
+  {
+    "festival": "Diwali",
+    "year": 2024,
+    "candidate_dates": [
+      "2024-10-31",
+      "2024-11-01"
+    ],
+    "primary_date": "2024-10-31",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2024",
+    "source_sha256": "bf80b453de7fbc9e55a6befe33eebbd057ea0241395240eb289d5492c8db9691",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -12
+  },
+  {
+    "festival": "Holi",
+    "year": 2024,
+    "candidate_dates": [
+      "2024-03-25",
+      "2024-03-26"
+    ],
+    "primary_date": "2024-03-25",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2024",
+    "source_sha256": "bf80b453de7fbc9e55a6befe33eebbd057ea0241395240eb289d5492c8db9691",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": 18
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2024,
+    "candidate_dates": [
+      "2024-10-12",
+      "2024-10-13"
+    ],
+    "primary_date": "2024-10-12",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2024",
+    "source_sha256": "bf80b453de7fbc9e55a6befe33eebbd057ea0241395240eb289d5492c8db9691",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -12
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2024,
+    "candidate_dates": [
+      "2024-04-10",
+      "2024-04-11"
+    ],
+    "primary_date": "2024-04-10",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2024",
+    "source_sha256": "bf80b453de7fbc9e55a6befe33eebbd057ea0241395240eb289d5492c8db9691",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -12
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2024,
+    "candidate_dates": [
+      "2024-08-19"
+    ],
+    "primary_date": "2024-08-19",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2024",
+    "source_sha256": "bf80b453de7fbc9e55a6befe33eebbd057ea0241395240eb289d5492c8db9691",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2024,
+    "candidate_dates": [
+      "2024-09-07"
+    ],
+    "primary_date": "2024-09-07",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2024",
+    "source_sha256": "bf80b453de7fbc9e55a6befe33eebbd057ea0241395240eb289d5492c8db9691",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Diwali",
+    "year": 2025,
+    "candidate_dates": [
+      "2025-10-20",
+      "2025-10-21"
+    ],
+    "primary_date": "2025-10-20",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2025",
+    "source_sha256": "b3b5f81156bc4bed139260fc209dc8180be13882c0111f892e3fe9a1a07f6d72",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Holi",
+    "year": 2025,
+    "candidate_dates": [
+      "2025-03-14",
+      "2025-03-15"
+    ],
+    "primary_date": "2025-03-14",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2025",
+    "source_sha256": "b3b5f81156bc4bed139260fc209dc8180be13882c0111f892e3fe9a1a07f6d72",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2025,
+    "candidate_dates": [
+      "2025-10-02"
+    ],
+    "primary_date": "2025-10-02",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2025",
+    "source_sha256": "b3b5f81156bc4bed139260fc209dc8180be13882c0111f892e3fe9a1a07f6d72",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2025,
+    "candidate_dates": [
+      "2025-03-31"
+    ],
+    "primary_date": "2025-03-31",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2025",
+    "source_sha256": "b3b5f81156bc4bed139260fc209dc8180be13882c0111f892e3fe9a1a07f6d72",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2025,
+    "candidate_dates": [
+      "2025-08-09"
+    ],
+    "primary_date": "2025-08-09",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2025",
+    "source_sha256": "b3b5f81156bc4bed139260fc209dc8180be13882c0111f892e3fe9a1a07f6d72",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2025,
+    "candidate_dates": [
+      "2025-08-27"
+    ],
+    "primary_date": "2025-08-27",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2025",
+    "source_sha256": "b3b5f81156bc4bed139260fc209dc8180be13882c0111f892e3fe9a1a07f6d72",
+    "crosscheck": "not independently checked",
+    "future_tentative": false,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Diwali",
+    "year": 2026,
+    "candidate_dates": [
+      "2026-11-08",
+      "2026-11-09"
+    ],
+    "primary_date": "2026-11-08",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2026",
+    "source_sha256": "d68be958f21482f0fee6c7f25b7f5ec889fdf0140711713aa668c2c55dc5be8e",
+    "crosscheck": "agrees",
+    "future_tentative": true,
+    "gregorian_shift_days": 19,
+    "crosscheck_date": "2026-11-08",
+    "crosscheck_url": "https://www.timeanddate.com/holidays/india/2026"
+  },
+  {
+    "festival": "Holi",
+    "year": 2026,
+    "candidate_dates": [
+      "2026-03-03",
+      "2026-03-04"
+    ],
+    "primary_date": "2026-03-03",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2026",
+    "source_sha256": "d68be958f21482f0fee6c7f25b7f5ec889fdf0140711713aa668c2c55dc5be8e",
+    "crosscheck": "not independently checked",
+    "future_tentative": true,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2026,
+    "candidate_dates": [
+      "2026-10-20",
+      "2026-10-21"
+    ],
+    "primary_date": "2026-10-20",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2026",
+    "source_sha256": "d68be958f21482f0fee6c7f25b7f5ec889fdf0140711713aa668c2c55dc5be8e",
+    "crosscheck": "not independently checked",
+    "future_tentative": true,
+    "gregorian_shift_days": 18
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2026,
+    "candidate_dates": [
+      "2026-03-20",
+      "2026-03-21"
+    ],
+    "primary_date": "2026-03-20",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": true,
+    "source_url": "https://www.officeholidays.com/countries/india/2026",
+    "source_sha256": "d68be958f21482f0fee6c7f25b7f5ec889fdf0140711713aa668c2c55dc5be8e",
+    "crosscheck": "not independently checked",
+    "future_tentative": true,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2026,
+    "candidate_dates": [
+      "2026-08-28"
+    ],
+    "primary_date": "2026-08-28",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2026",
+    "source_sha256": "d68be958f21482f0fee6c7f25b7f5ec889fdf0140711713aa668c2c55dc5be8e",
+    "crosscheck": "agrees",
+    "future_tentative": true,
+    "gregorian_shift_days": 19,
+    "crosscheck_date": "2026-08-28",
+    "crosscheck_url": "https://www.timeanddate.com/holidays/india/2026"
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2026,
+    "candidate_dates": [
+      "2026-09-14"
+    ],
+    "primary_date": "2026-09-14",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2026",
+    "source_sha256": "d68be958f21482f0fee6c7f25b7f5ec889fdf0140711713aa668c2c55dc5be8e",
+    "crosscheck": "not independently checked",
+    "future_tentative": true,
+    "gregorian_shift_days": 18
+  },
+  {
+    "festival": "Diwali",
+    "year": 2027,
+    "candidate_dates": [
+      "2027-10-29"
+    ],
+    "primary_date": "2027-10-29",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2027",
+    "source_sha256": "59593f9dbc2f9a9334954a4d9c08e287da521e625aafec5ad25980c5bd5a86e5",
+    "crosscheck": "not independently checked",
+    "future_tentative": true,
+    "gregorian_shift_days": -10
+  },
+  {
+    "festival": "Holi",
+    "year": 2027,
+    "candidate_dates": [
+      "2027-03-22"
+    ],
+    "primary_date": "2027-03-22",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2027",
+    "source_sha256": "59593f9dbc2f9a9334954a4d9c08e287da521e625aafec5ad25980c5bd5a86e5",
+    "crosscheck": "not independently checked",
+    "future_tentative": true,
+    "gregorian_shift_days": 19
+  },
+  {
+    "festival": "Dussehra",
+    "year": 2027,
+    "candidate_dates": [
+      "2027-10-09"
+    ],
+    "primary_date": "2027-10-09",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2027",
+    "source_sha256": "59593f9dbc2f9a9334954a4d9c08e287da521e625aafec5ad25980c5bd5a86e5",
+    "crosscheck": "not independently checked",
+    "future_tentative": true,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Eid al-Fitr",
+    "year": 2027,
+    "candidate_dates": [
+      "2027-03-09"
+    ],
+    "primary_date": "2027-03-09",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2027",
+    "source_sha256": "59593f9dbc2f9a9334954a4d9c08e287da521e625aafec5ad25980c5bd5a86e5",
+    "crosscheck": "not independently checked",
+    "future_tentative": true,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Raksha Bandhan",
+    "year": 2027,
+    "candidate_dates": [
+      "2027-08-17"
+    ],
+    "primary_date": "2027-08-17",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2027",
+    "source_sha256": "59593f9dbc2f9a9334954a4d9c08e287da521e625aafec5ad25980c5bd5a86e5",
+    "crosscheck": "not independently checked",
+    "future_tentative": true,
+    "gregorian_shift_days": -11
+  },
+  {
+    "festival": "Ganesh Chaturthi",
+    "year": 2027,
+    "candidate_dates": [
+      "2027-09-04"
+    ],
+    "primary_date": "2027-09-04",
+    "rule": "earliest listed date on country-level holiday URL; regional candidates retained",
+    "ambiguous": false,
+    "source_url": "https://www.officeholidays.com/countries/india/2027",
+    "source_sha256": "59593f9dbc2f9a9334954a4d9c08e287da521e625aafec5ad25980c5bd5a86e5",
+    "crosscheck": "not independently checked",
+    "future_tentative": true,
+    "gregorian_shift_days": -10
+  }
+]

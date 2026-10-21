@@ -1,0 +1,348 @@
+{
+ "bias_pairwise_calendar_dependence": {
+  "R1-shape: festival season": {
+   "Yug-1 + calendar \u2212 Calendar regression": {
+    "point": 3577.821535753843,
+    "lo": 1418.2950335256317,
+    "hi": 5796.054321336366,
+    "verdict": "B lower regret"
+   },
+   "Yug-1 + calendar \u2212 Calendar regression (censoring-aware)": {
+    "point": 4752.900231452615,
+    "lo": 2412.137588888412,
+    "hi": 7137.144915780557,
+    "verdict": "B lower regret"
+   },
+   "Yug-1 + calendar \u2212 ETS + calendar": {
+    "point": -13199.127973834897,
+    "lo": -16865.05060539212,
+    "hi": -10074.832726801127,
+    "verdict": "A lower regret"
+   },
+   "Yug-1 + calendar \u2212 TimesFM + calendar": {
+    "point": 76.82239555151318,
+    "lo": -1320.7723762061337,
+    "hi": 1355.0128852163334,
+    "verdict": "inconclusive"
+   },
+   "Yug-1 + calendar \u2212 Chronos + calendar": {
+    "point": -859.8060569686495,
+    "lo": -2848.371820414759,
+    "hi": 921.358622714323,
+    "verdict": "inconclusive"
+   },
+   "Yug-1 + calendar \u2212 Shopkeeper (calibrated, \u03c4 policy)": {
+    "point": -18391.90115249486,
+    "lo": -26510.269989094257,
+    "hi": -10986.67144083854,
+    "verdict": "A lower regret"
+   },
+   "Yug-1 + calendar \u2212 Shopkeeper": {
+    "point": -16717.317795774026,
+    "lo": -25107.57805654457,
+    "hi": -9166.164517522668,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Calendar regression": {
+    "point": -1175.0786956987722,
+    "lo": -1973.1424545035077,
+    "hi": -475.3599030244564,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 ETS + calendar": {
+    "point": -17952.02820528751,
+    "lo": -22573.82323296937,
+    "hi": -13462.905177373137,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Yug-1 + calendar": {
+    "point": -4752.900231452615,
+    "lo": -7121.19967273531,
+    "hi": -2495.8137731790252,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 TimesFM + calendar": {
+    "point": -4676.077835901102,
+    "lo": -6613.222929658837,
+    "hi": -2808.410944137398,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Chronos + calendar": {
+    "point": -5612.706288421265,
+    "lo": -8879.298920947842,
+    "hi": -2923.620502127071,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Shopkeeper (calibrated, \u03c4 policy)": {
+    "point": -23144.801383947473,
+    "lo": -31481.013072698803,
+    "hi": -15500.577701551441,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Shopkeeper": {
+    "point": -21470.21802722664,
+    "lo": -29872.72444341148,
+    "hi": -13476.451630871119,
+    "verdict": "A lower regret"
+   }
+  },
+  "R2-shocks: festival season": {
+   "Yug-1 + calendar \u2212 Calendar regression": {
+    "point": 2229.8486405827716,
+    "lo": 98.36367082803227,
+    "hi": 4178.3416463772755,
+    "verdict": "B lower regret"
+   },
+   "Yug-1 + calendar \u2212 Calendar regression (censoring-aware)": {
+    "point": 4715.32699498225,
+    "lo": 2596.301709576687,
+    "hi": 6878.096419238892,
+    "verdict": "B lower regret"
+   },
+   "Yug-1 + calendar \u2212 ETS + calendar": {
+    "point": -14687.895490674542,
+    "lo": -18259.416383688527,
+    "hi": -11692.313368569601,
+    "verdict": "A lower regret"
+   },
+   "Yug-1 + calendar \u2212 TimesFM + calendar": {
+    "point": -370.17945541848167,
+    "lo": -2180.8061839272614,
+    "hi": 1089.8664684711491,
+    "verdict": "inconclusive"
+   },
+   "Yug-1 + calendar \u2212 Chronos + calendar": {
+    "point": -467.098854476666,
+    "lo": -2287.6867196832472,
+    "hi": 1082.029116972545,
+    "verdict": "inconclusive"
+   },
+   "Yug-1 + calendar \u2212 Shopkeeper (calibrated, \u03c4 policy)": {
+    "point": -14708.59394238887,
+    "lo": -18450.988992253628,
+    "hi": -10874.533797275166,
+    "verdict": "A lower regret"
+   },
+   "Yug-1 + calendar \u2212 Shopkeeper": {
+    "point": -11559.537872524605,
+    "lo": -16514.69449027582,
+    "hi": -6623.201824081859,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Calendar regression": {
+    "point": -2485.478354399478,
+    "lo": -3213.0722511379927,
+    "hi": -1751.5387733341315,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 ETS + calendar": {
+    "point": -19403.222485656792,
+    "lo": -22957.45489124568,
+    "hi": -16032.688227681376,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Yug-1 + calendar": {
+    "point": -4715.32699498225,
+    "lo": -6927.782010170181,
+    "hi": -2700.2526869365397,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 TimesFM + calendar": {
+    "point": -5085.506450400731,
+    "lo": -6470.396365365854,
+    "hi": -3875.0392749681687,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Chronos + calendar": {
+    "point": -5182.425849458916,
+    "lo": -6585.327784624954,
+    "hi": -3881.215813177933,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Shopkeeper (calibrated, \u03c4 policy)": {
+    "point": -19423.92093737112,
+    "lo": -23068.280249504485,
+    "hi": -16055.409273349458,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Shopkeeper": {
+    "point": -16274.864867506854,
+    "lo": -20897.147882615798,
+    "hi": -12165.967598892952,
+    "verdict": "A lower regret"
+   }
+  },
+  "R3-both: festival season": {
+   "Yug-1 + calendar \u2212 Calendar regression": {
+    "point": 2913.33809732362,
+    "lo": 667.6554791017585,
+    "hi": 5387.117077228619,
+    "verdict": "B lower regret"
+   },
+   "Yug-1 + calendar \u2212 Calendar regression (censoring-aware)": {
+    "point": 3917.5573094607244,
+    "lo": 1887.8380787607,
+    "hi": 6284.126591024883,
+    "verdict": "B lower regret"
+   },
+   "Yug-1 + calendar \u2212 ETS + calendar": {
+    "point": -15989.473663351644,
+    "lo": -20004.217887347317,
+    "hi": -11853.005732859245,
+    "verdict": "A lower regret"
+   },
+   "Yug-1 + calendar \u2212 TimesFM + calendar": {
+    "point": -514.9440160748345,
+    "lo": -2503.8707708702955,
+    "hi": 1590.0604507408455,
+    "verdict": "inconclusive"
+   },
+   "Yug-1 + calendar \u2212 Chronos + calendar": {
+    "point": -848.1322792651627,
+    "lo": -2652.2480734347964,
+    "hi": 739.4369602028729,
+    "verdict": "inconclusive"
+   },
+   "Yug-1 + calendar \u2212 Shopkeeper (calibrated, \u03c4 policy)": {
+    "point": -19159.339370385205,
+    "lo": -27620.51556982774,
+    "hi": -11769.089916360213,
+    "verdict": "A lower regret"
+   },
+   "Yug-1 + calendar \u2212 Shopkeeper": {
+    "point": -17961.178912923337,
+    "lo": -27166.539712894177,
+    "hi": -9743.093123070332,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Calendar regression": {
+    "point": -1004.2192121371045,
+    "lo": -1720.9760710483558,
+    "hi": -387.89914600587116,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 ETS + calendar": {
+    "point": -19907.03097281237,
+    "lo": -24598.786262698468,
+    "hi": -14617.879474433297,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Yug-1 + calendar": {
+    "point": -3917.5573094607244,
+    "lo": -6174.797361730928,
+    "hi": -1722.2901232479348,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 TimesFM + calendar": {
+    "point": -4432.501325535559,
+    "lo": -6251.940798861234,
+    "hi": -2705.4001290116867,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Chronos + calendar": {
+    "point": -4765.689588725887,
+    "lo": -7840.681023222755,
+    "hi": -2089.1206705847153,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Shopkeeper (calibrated, \u03c4 policy)": {
+    "point": -23076.89667984593,
+    "lo": -31318.292156994306,
+    "hi": -16062.44698494455,
+    "verdict": "A lower regret"
+   },
+   "Calendar regression (censoring-aware) \u2212 Shopkeeper": {
+    "point": -21878.73622238406,
+    "lo": -31062.921723839383,
+    "hi": -14108.632485298585,
+    "verdict": "A lower regret"
+   }
+  }
+ },
+ "bias_pairwise_rolling": {
+  "Yug-1 + calendar \u2212 Calendar regression": {
+   "point": 680.1898004868635,
+   "lo": -1086.8480786193554,
+   "hi": 2167.8644601339797,
+   "verdict": "inconclusive"
+  },
+  "Yug-1 + calendar \u2212 Calendar regression (censoring-aware)": {
+   "point": 4530.137667652722,
+   "lo": 2803.935084985488,
+   "hi": 6234.738139346201,
+   "verdict": "B lower regret"
+  },
+  "Yug-1 + calendar \u2212 ETS + calendar": {
+   "point": -4055.5395515064956,
+   "lo": -5962.7267693208505,
+   "hi": -2408.641983774682,
+   "verdict": "A lower regret"
+  },
+  "Yug-1 + calendar \u2212 TimesFM + calendar": {
+   "point": -202.09303920335515,
+   "lo": -2086.5676237928037,
+   "hi": 1222.206981092816,
+   "verdict": "inconclusive"
+  },
+  "Yug-1 + calendar \u2212 Chronos + calendar": {
+   "point": -780.4027124951608,
+   "lo": -2353.0312953631164,
+   "hi": 644.8937633216277,
+   "verdict": "inconclusive"
+  },
+  "Yug-1 + calendar \u2212 Shopkeeper (calibrated, \u03c4 policy)": {
+   "point": -13289.685184097441,
+   "lo": -15975.98809528245,
+   "hi": -10542.32861314681,
+   "verdict": "A lower regret"
+  },
+  "Yug-1 + calendar \u2212 Shopkeeper": {
+   "point": -7362.651620822289,
+   "lo": -9700.2712244264,
+   "hi": -5109.462827477555,
+   "verdict": "A lower regret"
+  },
+  "Calendar regression (censoring-aware) \u2212 Calendar regression": {
+   "point": -3849.947867165858,
+   "lo": -4535.432782164292,
+   "hi": -3148.0385510851565,
+   "verdict": "A lower regret"
+  },
+  "Calendar regression (censoring-aware) \u2212 ETS + calendar": {
+   "point": -8585.677219159217,
+   "lo": -9758.47275294401,
+   "hi": -7462.955306086261,
+   "verdict": "A lower regret"
+  },
+  "Calendar regression (censoring-aware) \u2212 Yug-1 + calendar": {
+   "point": -4530.137667652722,
+   "lo": -6141.599575235012,
+   "hi": -2764.5123634075044,
+   "verdict": "A lower regret"
+  },
+  "Calendar regression (censoring-aware) \u2212 TimesFM + calendar": {
+   "point": -4732.230706856077,
+   "lo": -5750.463130597561,
+   "hi": -3858.3118237844,
+   "verdict": "A lower regret"
+  },
+  "Calendar regression (censoring-aware) \u2212 Chronos + calendar": {
+   "point": -5310.540380147882,
+   "lo": -6474.153535401246,
+   "hi": -4233.791392998853,
+   "verdict": "A lower regret"
+  },
+  "Calendar regression (censoring-aware) \u2212 Shopkeeper (calibrated, \u03c4 policy)": {
+   "point": -17819.822851750163,
+   "lo": -20630.287056069417,
+   "hi": -15210.141226568016,
+   "verdict": "A lower regret"
+  },
+  "Calendar regression (censoring-aware) \u2212 Shopkeeper": {
+   "point": -11892.78928847501,
+   "lo": -14166.96612437226,
+   "hi": -9704.774336512588,
+   "verdict": "A lower regret"
+  }
+ }
+}

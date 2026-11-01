@@ -10,7 +10,7 @@ The approximately 367 MB raw `.npz` synthetic forecast arrays are omitted. The p
 
 ## Reproduction sequence
 
-Use Python 3.11. The original CPU environment used NumPy 1.26.4, pandas 2.2.3, SciPy 1.11.4 and statsmodels 0.14.4. The notebooks pin their model packages and revisions. Run all commands below from a disposable clone of this repository; generation and analysis scripts write files.
+Use Python 3.11. The original CPU environment used NumPy 1.26.4, pandas 2.2.3, SciPy 1.11.4 and statsmodels 0.14.4. The root `requirements.txt` records the exact forecasting-model source pins used by the notebooks so GitHub can index them; it is a model-dependency manifest, not a complete runtime environment. Notebook cells repeat the same pins because they run independently in Kaggle. Keep the manifest and notebook pins synchronized. Run all commands below from a disposable clone of this repository; generation and analysis scripts write files.
 
 ```bash
 python3.11 -m venv .venv

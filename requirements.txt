@@ -1,0 +1,5 @@
+# Forecasting model source pins used by the published notebooks.
+# This is not a complete notebook runtime environment.
+yug @ git+https://github.com/birla-ai-labs/yug.git@2ad7da7133d5cb5b27be3ac1cc5e7963e2ba4e79
+timesfm @ git+https://github.com/google-research/timesfm.git@e51928e27119cb17bebc005be2696b75e0a9e688
+chronos-forecasting @ git+https://github.com/amazon-science/chronos-forecasting.git@fcd09fe8b6bf57643bde7847bf42a6719b7ee205
